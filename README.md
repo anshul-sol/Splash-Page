@@ -1,2 +1,2 @@
 # Splash-Page
-A Splash page 
+A Splash page using a design off of figma
